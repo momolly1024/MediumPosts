@@ -1,5 +1,22 @@
 # MediumPosts
 
+#### 使用 FastAPI + Render 架設免費 Web API｜官網沒教的事：Start commad 設定、API 範例程式碼、Web API 佈署教學](https://molly1024.medium.com/使用-fast-api-render-架設免費-web-api-官網沒教的事-start-commad-設定-api-範例程式碼-web-api-佈署教學-6da2a5a6a74e)
+
+#### [Giphy API 教學｜迷因愛好者的 API 首選。](https://molly1024.medium.com/giphy-api-教學-迷因愛好者的-api-首選-17a7b20bcd17)
+
+#### [LineBot 迷因圖片搜尋｜寫了一個酷東東 — Meme Search LineBot](https://molly1024.medium.com/linebot-寫了一個酷東東-迷因圖片搜尋機器人-meme-search-linebot-bff9a79f97)
+
+#### [NASA API 教學 ｜使用 Python 探索宇宙。以獲得每日的太空照片為範例。](https://molly1024.medium.com/nasa-api-教學-使用-python-探索宇宙-以獲得每日的太空照片為範例-a9f560d113e5)
+
+#### [Edamam API 教學：輕鬆掌握食物分析的技巧。分別用 python 及 nodeJs 作範例。](https://molly1024.medium.com/edamam-api-教學-輕鬆掌握食物分析的技巧-分別用-python-及-nodejs-作範例-8779403703f)
+
+#### [Windows 終端機推薦 — Windows Terminal 美化。將 Terminal 改造成你喜歡的樣子！😍Windows 終端機推薦；How to decorate Windows Terminal and edit settings.](https://molly1024.medium.com/windows-終端機推薦-windows-terminal-美化-將-terminal-改造成你喜歡的樣子-9f6835951837)
+
+#### [7 種在 React 引入圖片的方法。為什麼 img 的 src 無效?!](https://molly1024.medium.com/7-種在-react-引入圖片的方法-為什麼-img-的-src-無效-41a65965c468)
+
+#### [React 捕捉錯誤｜使用原生函式 componentDidCatch + Error Boundaries 來捕捉元件錯誤。Use React componentDidCatch and Error Boundaries to catch components’ error!](https://molly1024.medium.com/react-捕捉錯誤-使用原生函式-componentdidcatch-error-boundaries-來捕捉元件錯誤-6577cd4ed78d)
+
+#### [在電腦中設定 Git 帳號及 ssh key；在一台電腦中使用多個 Git 帳號；如何更改 Git 遠端網址。](https://molly1024.medium.com/%E5%9C%A8%E9%9B%BB%E8%85%A6%E4%B8%AD%E8%A8%AD%E5%AE%9A-git-%E5%B8%B3%E8%99%9F%E5%8F%8A-ssh-key-%E5%A4%9A%E5%80%8B-git-%E5%B8%B3%E8%99%9F%E5%8F%88%E8%A9%B2%E5%A6%82%E4%BD%95%E8%A8%AD%E5%AE%9A-71cabc421b17)
 
 #### [React Native 菜單｜React Navigation 底部菜單結合堆疊菜單的作法。Code for Integrating StackNavigator into BottomTabNavigator Screen.](https://molly1024.medium.com/react-native-%E8%8F%9C%E5%96%AE-react-navigation-%E5%BA%95%E9%83%A8%E8%8F%9C%E5%96%AE%E7%B5%90%E5%90%88%E5%A0%86%E7%96%8A%E8%8F%9C%E5%96%AE%E7%9A%84%E4%BD%9C%E6%B3%95-code-for-integrating-stacknavigator-into-a6dafcd80831)
 
